@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(79): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(132): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(175): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(200): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(210): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(277): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(305): warning C4018: '>=': signed/unsigned mismatch
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(317): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(377): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(382): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(408): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(420): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(429): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(433): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(448): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(453): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(467): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(520): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(530): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Inli\OneDrive\Homework\Semester of 2020 Fall\COP3530\Final_Project\GUI\GUI_tests\Project1\x64\Release\GameDevelopingDesignVisualizer.exe

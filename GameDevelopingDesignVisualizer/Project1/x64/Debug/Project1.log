@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(79): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(170): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(190): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(200): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(252): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(286): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(345): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(350): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(376): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(388): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(397): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(401): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(416): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(421): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(484): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inli\onedrive\homework\semester of 2020 fall\cop3530\final_project\gui\gui_tests\project1\project1\developdata.h(494): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\Inli\OneDrive\Homework\Semester of 2020 Fall\COP3530\Final_Project\GUI\GUI_tests\Project1\x64\Debug\Project1.exe
